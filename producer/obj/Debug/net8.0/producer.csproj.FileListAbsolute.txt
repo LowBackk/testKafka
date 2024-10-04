@@ -39,3 +39,4 @@
 /home/alf/code/wac/lowBack/testKafka/producer/obj/Debug/net8.0/producer.pdb
 /home/alf/code/wac/lowBack/testKafka/producer/obj/Debug/net8.0/producer.genruntimeconfig.cache
 /home/alf/code/wac/lowBack/testKafka/producer/obj/Debug/net8.0/ref/producer.dll
+/home/alf/code/wac/lowBack/testKafka/producer/obj/Debug/net8.0/producer.sourcelink.json

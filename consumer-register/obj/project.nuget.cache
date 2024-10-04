@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxOmy6nlOCx4c4hDql3kNv7CM4CMOEpir7l3cnzQzZD9nuudDdVT760jcpO9a1JGQkVc+tVj9W+AOSxybuf88w==",
+  "success": true,
+  "projectFilePath": "/home/alf/code/wac/lowBack/testKafka/consumer-register/consumer-register.csproj",
+  "expectedPackageFiles": [
+    "/home/alf/.nuget/packages/confluent.kafka/2.5.3/confluent.kafka.2.5.3.nupkg.sha512",
+    "/home/alf/.nuget/packages/librdkafka.redist/2.5.3/librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

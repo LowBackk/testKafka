@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alf/code/wac/lowBack/testKafka/consumer-register/consumer-register.csproj": {}
+  },
+  "projects": {
+    "/home/alf/code/wac/lowBack/testKafka/consumer-register/consumer-register.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alf/code/wac/lowBack/testKafka/consumer-register/consumer-register.csproj",
+        "projectName": "consumer-register",
+        "projectPath": "/home/alf/code/wac/lowBack/testKafka/consumer-register/consumer-register.csproj",
+        "packagesPath": "/home/alf/.nuget/packages/",
+        "outputPath": "/home/alf/code/wac/lowBack/testKafka/consumer-register/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
